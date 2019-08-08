@@ -24,6 +24,7 @@ PHP ne işe yarar?
 - Temel etiketler
 - Formlar
 - CSS ile temel süsleme
+- Bootstrap 4
 
 2. Programlamanın temelleri
 	- Veri tipleri
@@ -53,6 +54,17 @@ PHP ne işe yarar?
 4. Örnek Projeler
 	- Kişisel Site - Özgeçmiş
 	- Nesneler
-	- Admin Paneli
 	- MVC
+	- Admin Paneli
+	- Arayüz tasarımı
+	- Oturum açma
+	- PHP ile REST
+
+5. Ajax ve ayrık mimari
+	- React UI
+	- Tasarım kütüphaneleri
+
+6. Microframework Slim ile örnek proje
+7. CakePHP
+8. Laravel
 
